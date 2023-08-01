@@ -17,4 +17,4 @@ I wanted to make the setup as minimalistic as possible but still use the power o
 `npm run build:watch` starts the app in development mode and the `./dist` folder contains the generated static assets that could directly be used for deployment.
 
 ## Third-party
-I used a couple of free [font-awesome icons](https://fontawesome.com/). (Can be found in the `./dist` folder 
+I used a couple of free [font-awesome icons](https://fontawesome.com/). (Can be found in the `./dist` folder) 
