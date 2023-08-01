@@ -12,7 +12,7 @@ One can immediately start drawing with right mouse button dragging. The simple m
 ## Technical Details
 I wanted to focus on the canvas functionality and specifics, so I asked [ChatGPT](https://chat.openai.com/) to create a simple html and css files for a simple static CV website for me.
 
-I wanted to make the setup as minimalistic as possible but still use the power of Typescript, so I used the most simple and easy (for me) website setup using Webpack. 
+I also didn't want to use a Framework and aimed to make the setup as minimalistic as possible but still use the power of Typescript, so I used the most simple and easy (for me) website setup using Webpack. 
 
 `npm run build:watch` starts the app in development mode and the `./dist` folder contains the generated static assets that could directly be used for deployment.
 
