@@ -18,3 +18,8 @@ I also didn't want to use a Framework and aimed to make the setup as minimalisti
 
 ## Third-party
 I used a couple of free [font-awesome icons](https://fontawesome.com/). (Can be found in the `./dist` folder) 
+
+
+## Start the application locally
+1. `npm install`
+2. `npm run build:watch`
