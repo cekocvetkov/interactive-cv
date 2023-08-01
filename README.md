@@ -7,7 +7,7 @@ Here an example usage in the fictional scenario of a recruiter that is taking no
 
 <img src="https://github.com/cekocvetkov/interactive-cv/assets/7689051/c4b212a6-3a3b-4b71-a9ed-c3b48f36243a" width=80% height=80%>
 
-One can immediately start drawing with right mouse button dragging. The simple menu on the left side provides "Clear All", "Undo" and color picker functionality.
+One can immediately start drawing with right mouse button dragging. The simple menu on the left side provides "Clear All", "Undo" and color picker functionality. All other buttons in the website are clickable at all times
 
 ## Technical Details
 
